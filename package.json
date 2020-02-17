@@ -19,5 +19,7 @@
   "dependencies": {
     "html": "^1.0.0",
     "prettier": "^1.19.1"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }
